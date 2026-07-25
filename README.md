@@ -149,4 +149,9 @@ This project is licensed under the **MIT License**.
 ---
 ## 👨‍💻 Author
 **Pradeep**
+---
+---
+## LinkedIn Link: https://www.linkedin.com/posts/pradeep-chaudhary-714555328_machinelearning-datascience-python-activity-7484129990008012800-_rZ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKptsABL7yaFFS5sQxDqeazD1wXkGx-Eb0
+---
+
 If you found this project useful, consider giving it a ⭐ on GitHub.
